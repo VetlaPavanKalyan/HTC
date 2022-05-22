@@ -10,6 +10,8 @@
 | S.No. | Topic | Questions |
 |---|--------------|-----|
 |01. | [Level 1](/contest-1) | 50 |
+|02. | [Level 2](/contest-2) | 21 |
+|03. | [Level 3](/contest-3) | 09 |
 
 
 ## Thanks to all the contributors 💖
