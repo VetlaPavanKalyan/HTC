@@ -7,9 +7,11 @@
 
 ## Solutions for the Contest
 
-| S.No. | Topic | Questions |
-|---|--------------|-----|
-|01. | [Level 1](/contest-1) | 50 |
+| S.No. | Topic | Questions | Contest Link
+|---|--------------|-----|--------|
+|01. | [Level 1](/contest-1) | 50 | [here](https://www.hackerrank.com/contests/htc-2) |
+|02. | [Level 2](/contest-2) | 21 | [here](https://www.hackerrank.com/contests/htc-2-2) |
+|03. | [Level 3](/contest-3) | 09 | [here](https://www.hackerrank.com/contests/htc-3) |
 
 
 ## Thanks to all the contributors 💖

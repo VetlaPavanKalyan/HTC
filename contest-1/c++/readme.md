@@ -2,7 +2,7 @@
 
 | S.No. | Question | Solution |
 |----| --------------- | -------- |
-|1. | [Hello GVPCE!](https://www.hackerrank.com/contests/htc-2/challenges/hello-world-41-2) |[Solution]()|
+|1. | [Hello GVPCE!](https://www.hackerrank.com/contests/htc-2/challenges/hello-world-41-2) |[Solution](./p01-hello_world.cpp)|
 |2. | [Largest Number](https://www.hackerrank.com/contests/htc-2/challenges/largest-number-20) |[Solution]()|
 |3. | [Area Of Circle](https://www.hackerrank.com/contests/htc-2/challenges/area-of-circle-15-1) |[Solution]()|
 |4. | [Temperature Conversion](https://www.hackerrank.com/contests/htc-2/challenges/temperature-conversion-7-1) |[Solution]()|
