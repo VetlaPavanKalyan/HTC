@@ -2,16 +2,16 @@
 
 | S.No. | Question | Solution |
 |----| --------------- | -------- |
-|1. | [Hello GVPCE!](https://www.hackerrank.com/contests/htc-2/challenges/hello-world-41-2) |[Solution]()|
-|2. | [Largest Number](https://www.hackerrank.com/contests/htc-2/challenges/largest-number-20) |[Solution]()|
-|3. | [Area Of Circle](https://www.hackerrank.com/contests/htc-2/challenges/area-of-circle-15-1) |[Solution]()|
-|4. | [Temperature Conversion](https://www.hackerrank.com/contests/htc-2/challenges/temperature-conversion-7-1) |[Solution]()|
-|5. | [Type Conversions](https://www.hackerrank.com/contests/htc-2/challenges/type-conversion-1-1) |[Solution]()|
-|6. | [Swap Numbers](https://www.hackerrank.com/contests/htc-2/challenges/swap-numbers-) |[Solution]()|
-|7. | [Hypotenuse](https://www.hackerrank.com/contests/htc-2/challenges/hypotenuse-2) |[Solution]()|
-|8. | [Binary to Decimal Conversion](https://www.hackerrank.com/contests/htc-2/challenges/binary-to-decimal-conversion-3-1) |[Solution]()|
-|9. | [Print Tables](https://www.hackerrank.com/contests/htc-2/challenges/printing-tables) |[Solution]()|
-|10. | [Second Largest](https://www.hackerrank.com/contests/htc-2/challenges/second-largest-14) |[Solution]()|
+|1. | [Hello GVPCE!](https://www.hackerrank.com/contests/htc-2/challenges/hello-world-41-2) |[Solution](./p01-hello_world.c)|
+|2. | [Largest Number](https://www.hackerrank.com/contests/htc-2/challenges/largest-number-20) |[Solution](./p02-largest_number.c)|
+|3. | [Area Of Circle](https://www.hackerrank.com/contests/htc-2/challenges/area-of-circle-15-1) |[Solution](./p03-area_of_circle.c)|
+|4. | [Temperature Conversion](https://www.hackerrank.com/contests/htc-2/challenges/temperature-conversion-7-1) |[Solution](./p04-temperature_conversion.c)|
+|5. | [Type Conversions](https://www.hackerrank.com/contests/htc-2/challenges/type-conversion-1-1) |[Solution](./p05-type_conversion.c)|
+|6. | [Swap Numbers](https://www.hackerrank.com/contests/htc-2/challenges/swap-numbers-) |[Solution](./p06-swap_numbers.c)|
+|7. | [Hypotenuse](https://www.hackerrank.com/contests/htc-2/challenges/hypotenuse-2) |[Solution](./p07-hypotenuse.c)|
+|8. | [Binary to Decimal Conversion](https://www.hackerrank.com/contests/htc-2/challenges/binary-to-decimal-conversion-3-1) |[Solution](./p08-binary_to_decimal_conversion.c)|
+|9. | [Print Tables](https://www.hackerrank.com/contests/htc-2/challenges/printing-tables) |[Solution](./p09-print_tables.c)|
+|10. | [Second Largest](https://www.hackerrank.com/contests/htc-2/challenges/second-largest-14) |[Solution](./p10-second_largest.c)|
 |11. | [ASCII Values](https://www.hackerrank.com/contests/htc-2/challenges/ascii-values-3) |[Solution]()|
 |12. | [Remainders](https://www.hackerrank.com/contests/htc-2/challenges/remainders-3) |[Solution]()|
 |13. | [Sorted Strings](https://www.hackerrank.com/contests/htc-2/challenges/sorted-strings-1) |[Solution]()|
