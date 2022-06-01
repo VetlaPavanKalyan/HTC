@@ -12,11 +12,11 @@
 |8. | [Binary to Decimal Conversion](https://www.hackerrank.com/contests/htc-2/challenges/binary-to-decimal-conversion-3-1) |[Solution](./p08-binary_to_decimal_conversion.c)|
 |9. | [Print Tables](https://www.hackerrank.com/contests/htc-2/challenges/printing-tables) |[Solution](./p09-print_tables.c)|
 |10. | [Second Largest](https://www.hackerrank.com/contests/htc-2/challenges/second-largest-14) |[Solution](./p10-second_largest.c)|
-|11. | [ASCII Values](https://www.hackerrank.com/contests/htc-2/challenges/ascii-values-3) |[Solution]()|
-|12. | [Remainders](https://www.hackerrank.com/contests/htc-2/challenges/remainders-3) |[Solution]()|
-|13. | [Sorted Strings](https://www.hackerrank.com/contests/htc-2/challenges/sorted-strings-1) |[Solution]()|
-|14. | [Multiples](https://www.hackerrank.com/contests/htc-2/challenges/multiples-9) |[Solution]()|
-|15. | [Factors](https://www.hackerrank.com/contests/htc-2/challenges/factors-27) |[Solution]()|
+|11. | [ASCII Values](https://www.hackerrank.com/contests/htc-2/challenges/ascii-values-3) |[Solution](./p11-ascii_values.c)|
+|12. | [Remainders](https://www.hackerrank.com/contests/htc-2/challenges/remainders-3) |[Solution](./p12-remainders.c)|
+|13. | [Sorted Strings](https://www.hackerrank.com/contests/htc-2/challenges/sorted-strings-1) |[Solution](./p13-sorted_strings.c)|
+|14. | [Multiples](https://www.hackerrank.com/contests/htc-2/challenges/multiples-9) |[Solution](./p14-multiples.c)|
+|15. | [Factors](https://www.hackerrank.com/contests/htc-2/challenges/factors-27) |[Solution](./p15-factors.c)|
 |16. | [Sum Of Natural Numbers](https://www.hackerrank.com/contests/htc-2/challenges/sum-of-natural-numbers-8-1) |[Solution]()|
 |17. | [LCM](https://www.hackerrank.com/contests/htc-2/challenges/lcm-28) |[Solution]()|
 |18. | [Sum Of Digits](https://www.hackerrank.com/contests/htc-2/challenges/sum-of-digits-49-1) |[Solution]()|
