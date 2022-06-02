@@ -17,21 +17,21 @@
 |13. | [Sorted Strings](https://www.hackerrank.com/contests/htc-2/challenges/sorted-strings-1) |[Solution](./p13-sorted_strings.c)|
 |14. | [Multiples](https://www.hackerrank.com/contests/htc-2/challenges/multiples-9) |[Solution](./p14-multiples.c)|
 |15. | [Factors](https://www.hackerrank.com/contests/htc-2/challenges/factors-27) |[Solution](./p15-factors.c)|
-|16. | [Sum Of Natural Numbers](https://www.hackerrank.com/contests/htc-2/challenges/sum-of-natural-numbers-8-1) |[Solution]()|
-|17. | [LCM](https://www.hackerrank.com/contests/htc-2/challenges/lcm-28) |[Solution]()|
-|18. | [Sum Of Digits](https://www.hackerrank.com/contests/htc-2/challenges/sum-of-digits-49-1) |[Solution]()|
-|19. | [Factoiral](https://www.hackerrank.com/contests/htc-2/challenges/factorial-111-1) |[Solution]()|
-|20. | [Perfect Numbers](https://www.hackerrank.com/contests/htc-2/challenges/perfect-number-50) |[Solution]()|
-|21. | [Even Odd](https://www.hackerrank.com/contests/htc-2/challenges/even-odd-27-2) |[Solution]()|
-|22. | [Positive Negitive](https://www.hackerrank.com/contests/htc-2/challenges/positive-negative-6) |[Solution]()|
-|23. | [Leap Year](https://www.hackerrank.com/contests/htc-2/challenges/leap-year-68) |[Solution]()|
-|24. | [Fizz Buzz](https://www.hackerrank.com/contests/htc-2/challenges/fizz-buzz-13) |[Solution]()|
-|25. | [Summation of Numbers](https://www.hackerrank.com/contests/htc-2/challenges/summation-of-numbers-2) |[Solution]()|
-|26. | [Calculator](https://www.hackerrank.com/contests/htc-2/challenges/calculator-33-3) |[Solution]()|
-|27. | [Fetch Elements](https://www.hackerrank.com/contests/htc-2/challenges/fetch-elements) |[Solution]()|
-|28. | [Min Max Array](https://www.hackerrank.com/contests/htc-2/challenges/min-max-array-2) |[Solution]()|
-|29. | [Let's Count](https://www.hackerrank.com/contests/htc-2/challenges/lets-count-3) |[Solution]()|
-|30. | [Squares](https://www.hackerrank.com/contests/htc-2/challenges/squares-17) |[Solution]()|
+|16. | [Sum Of Natural Numbers](https://www.hackerrank.com/contests/htc-2/challenges/sum-of-natural-numbers-8-1) |[Solution](./p16-sum_of_natural_numbers.c)|
+|17. | [LCM](https://www.hackerrank.com/contests/htc-2/challenges/lcm-28) |[Solution](./p17-lcm.c)|
+|18. | [Sum Of Digits](https://www.hackerrank.com/contests/htc-2/challenges/sum-of-digits-49-1) |[Solution](./p18-sum_of_digits.c)|
+|19. | [Factoiral](https://www.hackerrank.com/contests/htc-2/challenges/factorial-111-1) |[Solution](./p19-factorial.c)|
+|20. | [Perfect Numbers](https://www.hackerrank.com/contests/htc-2/challenges/perfect-number-50) |[Solution](./p20-perfect_numbers.c)|
+|21. | [Even Odd](https://www.hackerrank.com/contests/htc-2/challenges/even-odd-27-2) |[Solution](./p21-even_odd.c)|
+|22. | [Positive Negitive](https://www.hackerrank.com/contests/htc-2/challenges/positive-negative-6) |[Solution](./p22-positive_negative.c)|
+|23. | [Leap Year](https://www.hackerrank.com/contests/htc-2/challenges/leap-year-68) |[Solution](./p23-leap_year.c)|
+|24. | [Fizz Buzz](https://www.hackerrank.com/contests/htc-2/challenges/fizz-buzz-13) |[Solution](./p24-fizzbuzz.c)|
+|25. | [Summation of Numbers](https://www.hackerrank.com/contests/htc-2/challenges/summation-of-numbers-2) |[Solution](./p25-summation_of_numbers.c)|
+|26. | [Calculator](https://www.hackerrank.com/contests/htc-2/challenges/calculator-33-3) |[Solution](./p26-calculator.c)|
+|27. | [Fetch Elements](https://www.hackerrank.com/contests/htc-2/challenges/fetch-elements) |[Solution](./p27-fetch_elements.c)|
+|28. | [Min Max Array](https://www.hackerrank.com/contests/htc-2/challenges/min-max-array-2) |[Solution](./p28-min_max_array.c)|
+|29. | [Let's Count](https://www.hackerrank.com/contests/htc-2/challenges/lets-count-3) |[Solution](./p30-squares.c)|
+|30. | [Squares](https://www.hackerrank.com/contests/htc-2/challenges/squares-17) |[Solution](./)|
 |31. | [Next Perfect Square](https://www.hackerrank.com/contests/htc-2/challenges/next-perfect-square) |[Solution]()|
 |32. | [Sum Of Numbers in range](https://www.hackerrank.com/contests/htc-2/challenges/sum-of-numbers-in-range) |[Solution]()|
 |33. | [Fibonacci Series](https://www.hackerrank.com/contests/htc-2/challenges/fibonacci-series-62-2) |[Solution]()|
