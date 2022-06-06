@@ -30,19 +30,19 @@
 |26. | [Calculator](https://www.hackerrank.com/contests/htc-2/challenges/calculator-33-3) |[Solution](./p26-calculator.c)|
 |27. | [Fetch Elements](https://www.hackerrank.com/contests/htc-2/challenges/fetch-elements) |[Solution](./p27-fetch_elements.c)|
 |28. | [Min Max Array](https://www.hackerrank.com/contests/htc-2/challenges/min-max-array-2) |[Solution](./p28-min_max_array.c)|
-|29. | [Let's Count](https://www.hackerrank.com/contests/htc-2/challenges/lets-count-3) |[Solution](./p30-squares.c)|
-|30. | [Squares](https://www.hackerrank.com/contests/htc-2/challenges/squares-17) |[Solution](./)|
-|31. | [Next Perfect Square](https://www.hackerrank.com/contests/htc-2/challenges/next-perfect-square) |[Solution]()|
-|32. | [Sum Of Numbers in range](https://www.hackerrank.com/contests/htc-2/challenges/sum-of-numbers-in-range) |[Solution]()|
-|33. | [Fibonacci Series](https://www.hackerrank.com/contests/htc-2/challenges/fibonacci-series-62-2) |[Solution]()|
-|34. | [Occurances](https://www.hackerrank.com/contests/htc-2/challenges/ocuurences) |[Solution]()|
-|35. | [Solid Square](https://www.hackerrank.com/contests/htc-2/challenges/solid-square) |[Solution]()|
-|36. | [Solid Triangles](https://www.hackerrank.com/contests/htc-2/challenges/solid-triangle) |[Solution]()|
-|37. | [Numbers](https://www.hackerrank.com/contests/htc-2/challenges/numbers-13-3) |[Solution]()|
-|38. | [Lower Case String](https://www.hackerrank.com/contests/htc-2/challenges/matrix-sum-8-1) |[Solution]()|
-|39. | [UpperCase String](https://www.hackerrank.com/contests/htc-2/challenges/uppercase-string) |[Solution]()|
-|40. | [Number Of Vowels](https://www.hackerrank.com/contests/htc-2/challenges/no-of-vowels) |[Solution]()|
-|41. | [String reverse](https://www.hackerrank.com/contests/htc-2/challenges/string-reverse-26-1) |[Solution]()|
+|29. | [Let's Count](https://www.hackerrank.com/contests/htc-2/challenges/lets-count-3) |[Solution](./)|
+|30. | [Squares](https://www.hackerrank.com/contests/htc-2/challenges/squares-17) |[Solution](./p30-squares.c)|
+|31. | [Next Perfect Square](https://www.hackerrank.com/contests/htc-2/challenges/next-perfect-square) |[Solution](./p31-next_perfect_square.c)|
+|32. | [Sum Of Numbers in range](https://www.hackerrank.com/contests/htc-2/challenges/sum-of-numbers-in-range) |[Solution](./p32-sum_of_numbers_in_range.c)|
+|33. | [Fibonacci Series](https://www.hackerrank.com/contests/htc-2/challenges/fibonacci-series-62-2) |[Solution](./p33-fibonacci_series.c)|
+|34. | [Occurances](https://www.hackerrank.com/contests/htc-2/challenges/ocuurences) |[Solution](./p34-occurences.c)|
+|35. | [Solid Square](https://www.hackerrank.com/contests/htc-2/challenges/solid-square) |[Solution](./p35-solid_square.c)|
+|36. | [Solid Triangles](https://www.hackerrank.com/contests/htc-2/challenges/solid-triangle) |[Solution](./p36-solid_triangles.c)|
+|37. | [Numbers](https://www.hackerrank.com/contests/htc-2/challenges/numbers-13-3) |[Solution](./p37-numbers.c)|
+|38. | [Lower Case String](https://www.hackerrank.com/contests/htc-2/challenges/matrix-sum-8-1) |[Solution](./p38-lowercase_string.c)|
+|39. | [UpperCase String](https://www.hackerrank.com/contests/htc-2/challenges/uppercase-string) |[Solution](./p39-uppercase_string.c)|
+|40. | [Number Of Vowels](https://www.hackerrank.com/contests/htc-2/challenges/no-of-vowels) |[Solution](./p40-number_of_vowels.c)|
+|41. | [String reverse](https://www.hackerrank.com/contests/htc-2/challenges/string-reverse-26-1) |[Solution](./p41-string_reverse)|
 |42. | [Count In String](https://www.hackerrank.com/contests/htc-2/challenges/count-in-string) |[Solution]()|
 |43. | [Matrix Sum](https://www.hackerrank.com/contests/htc-2/challenges/matrix-sum-8-2) |[Solution]()|
 |44. | [Corner Elements](https://www.hackerrank.com/contests/htc-2/challenges/corner-elements) |[Solution]()|
