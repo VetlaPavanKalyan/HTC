@@ -1,0 +1,5 @@
+print("enter a string")
+s=input()
+print("enter a number")
+n=int(input())
+print("string is {}\nnumber is {}".format(s,n))
